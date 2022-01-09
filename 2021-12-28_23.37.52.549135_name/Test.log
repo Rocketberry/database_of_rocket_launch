@@ -1,4 +1,0 @@
-2021-12-28 23:37:12,581:Modules.Adc_ : DEBUG : I2C initialized
-2021-12-28 23:37:12,796:__main__ : DEBUG : AnalogToDigitalConverter() components initialized
-2021-12-28 23:37:32,495:__main__ : DEBUG : Start detected
-2021-12-28 23:37:52,525:__main__ : DEBUG : Sent to save
