@@ -13,3 +13,9 @@
 2022-02-04 19:08:56,561:__main__ : DEBUG : Scaled data saved
 2022-02-04 19:08:56,582:__main__ : DEBUG : Log file saved
 2022-02-04 19:08:56,588:__main__ : INFO : Data sent to DataBroker
+2022-02-04 19:09:42,030:__main__ : DEBUG : Repository updated
+2022-02-04 19:09:52,301:__main__ : ERROR : Unable to publish data
+2022-02-04 19:09:53,319:__main__ : ERROR : Unable to publish data
+2022-02-04 19:11:20,868:__main__ : ERROR : Unable to publish data
+2022-02-04 19:11:25,883:__main__ : ERROR : Unable to publish data
+2022-02-04 19:11:30,898:__main__ : ERROR : Unable to publish data

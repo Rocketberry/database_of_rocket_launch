@@ -1,0 +1,15 @@
+2022-02-04 20:37:05,545:Modules.Adc_ : DEBUG : I2C initialized
+2022-02-04 20:37:05,563:Modules.Adc_ : DEBUG : I2C initialized
+2022-02-04 20:37:05,760:__main__ : DEBUG : AnalogToDigitalConverter() components initialized
+2022-02-04 20:37:13,308:__main__ : INFO : Start detected
+2022-02-04 20:37:33,413:__main__ : DEBUG : Sent to save
+2022-02-04 20:37:33,422:__main__ : DEBUG : Received data to save
+2022-02-04 20:37:33,469:__main__ : DEBUG : Raw data saved
+2022-02-04 20:37:33,487:__main__ : DEBUG : Received all data to save
+2022-02-04 20:37:33,495:__main__ : DEBUG : Data sent to scale
+2022-02-04 20:37:33,512:__main__ : DEBUG : Got raw data
+2022-02-04 20:37:33,565:__main__ : DEBUG : Data scaled,ready to send
+2022-02-04 20:37:33,572:__main__ : DEBUG : Scaled data sent
+2022-02-04 20:37:33,608:__main__ : DEBUG : Scaled data saved
+2022-02-04 20:37:33,631:__main__ : DEBUG : Log file saved
+2022-02-04 20:37:33,640:__main__ : INFO : Data sent to DataBroker
