@@ -1,0 +1,37 @@
+2022-02-11 23:19:12,840:Modules.Adc_ : DEBUG : I2C initialized
+2022-02-11 23:19:12,882:Modules.Adc_ : DEBUG : I2C initialized
+2022-02-11 23:19:13,055:__main__ : DEBUG : AnalogToDigitalConverter() components initialized
+2022-02-11 23:19:13,056:__main__ : INFO : Cant check pressure ratio
+2022-02-11 23:19:16,558:Modules.TestFailures : WARNING : Pressure is below minimal value!
+2022-02-11 23:19:16,558:Modules.TestFailures : INFO : Pressure value: -0.009899999999999999 bar
+2022-02-11 23:19:16,558:__main__ : INFO : Servo closed
+2022-02-11 23:19:36,653:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:37,906:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:39,160:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:40,413:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:41,669:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:42,923:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:44,177:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:45,429:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:46,685:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:47,937:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:49,192:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:50,447:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:51,110:__main__ : INFO : Start detected
+2022-02-11 23:19:51,704:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:52,958:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:54,210:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:55,467:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:56,726:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:57,982:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:19:59,235:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:20:00,490:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:20:01,749:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:20:03,003:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:20:04,258:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:20:05,511:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:20:06,767:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:20:08,020:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:20:09,272:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:20:10,524:__main__ : INFO : Switches closed becouse of disconnect
+2022-02-11 23:20:11,143:__main__ : DEBUG : Sent to save
