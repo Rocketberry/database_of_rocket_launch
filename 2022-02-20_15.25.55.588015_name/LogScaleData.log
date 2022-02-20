@@ -1,0 +1,12 @@
+2022-02-19 17:46:26,784:__main__ : DEBUG : Got raw data
+2022-02-19 17:46:26,846:__main__ : DEBUG : Data scaled,ready to send
+2022-02-19 17:46:26,854:__main__ : DEBUG : Scaled data sent
+2022-02-19 17:59:31,728:__main__ : DEBUG : Got raw data
+2022-02-19 17:59:31,764:__main__ : DEBUG : Data scaled,ready to send
+2022-02-19 17:59:31,769:__main__ : DEBUG : Scaled data sent
+2022-02-19 18:02:10,038:__main__ : DEBUG : Got raw data
+2022-02-19 18:02:10,062:__main__ : DEBUG : Data scaled,ready to send
+2022-02-19 18:02:10,068:__main__ : DEBUG : Scaled data sent
+2022-02-20 15:25:55,748:__main__ : DEBUG : Got raw data
+2022-02-20 15:25:55,813:__main__ : DEBUG : Data scaled,ready to send
+2022-02-20 15:25:55,838:__main__ : DEBUG : Scaled data sent
