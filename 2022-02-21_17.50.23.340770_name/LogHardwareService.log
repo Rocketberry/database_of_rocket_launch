@@ -1,0 +1,30 @@
+2022-02-21 15:44:01,441:Modules.Adc_ : DEBUG : I2C initialized
+2022-02-21 15:44:01,475:Modules.Adc_ : DEBUG : I2C initialized
+2022-02-21 15:44:01,656:__main__ : DEBUG : AnalogToDigitalConverter() components initialized
+2022-02-21 15:44:01,658:__main__ : INFO : Cant check pressure ratio
+2022-02-21 15:44:22,164:__main__ : INFO : Cant check pressure ratio
+2022-02-21 15:52:48,809:__main__ : INFO : Cant check pressure ratio
+2022-02-21 15:54:38,344:__main__ : INFO : Cant check pressure ratio
+2022-02-21 16:06:36,562:__main__ : INFO : Cant check pressure ratio
+2022-02-21 16:18:07,258:__main__ : INFO : Cant check pressure ratio
+2022-02-21 16:24:30,366:__main__ : INFO : Cant check pressure ratio
+2022-02-21 16:36:08,087:__main__ : INFO : Cant check pressure ratio
+2022-02-21 16:37:09,605:__main__ : INFO : Cant check pressure ratio
+2022-02-21 16:52:46,874:__main__ : INFO : Cant check pressure ratio
+2022-02-21 16:57:13,975:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:01:20,044:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:02:01,055:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:03:30,080:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:04:18,094:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:07:02,139:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:15:22,289:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:25:31,470:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:31:13,583:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:31:34,090:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:33:23,623:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:35:54,164:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:43:46,295:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:44:06,801:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:46:57,850:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:49:11,447:__main__ : INFO : Start detected
+2022-02-21 17:50:23,266:__main__ : DEBUG : Sent to save

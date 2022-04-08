@@ -1,0 +1,19 @@
+2022-04-08 20:25:03,922:Modules.Adc_ : DEBUG : I2C initialized
+2022-04-08 20:25:04,136:__main__ : DEBUG : AnalogToDigitalConverter() components initialized
+2022-04-08 20:25:04,137:__main__ : INFO : Cant check pressure ratio
+2022-04-08 20:25:04,643:__main__ : INFO : Cant check pressure ratio
+2022-04-08 20:25:05,159:__main__ : INFO : Cant check pressure ratio
+2022-04-08 20:25:05,675:__main__ : INFO : Cant check pressure ratio
+2022-04-08 20:25:06,191:__main__ : INFO : Cant check pressure ratio
+2022-04-08 20:25:06,706:__main__ : INFO : Cant check pressure ratio
+2022-04-08 20:25:07,222:__main__ : INFO : Cant check pressure ratio
+2022-04-08 20:25:07,738:__main__ : INFO : Cant check pressure ratio
+2022-04-08 20:25:08,253:__main__ : INFO : Cant check pressure ratio
+2022-04-08 20:25:08,769:__main__ : INFO : Cant check pressure ratio
+2022-04-08 20:25:09,248:__main__ : INFO : Noticied request start of test
+2022-04-08 20:25:09,280:Modules.TestFailures : WARNING : Pressure in chamber is too high!
+2022-04-08 20:25:09,281:Modules.TestFailures : INFO : Pressure in chamber value: -2.8545000000000003 bar
+2022-04-08 20:25:09,281:Modules.TestFailures : INFO : Pressure in tank value: -8.1284 bar
+2022-04-08 20:25:09,282:__main__ : INFO : Servo closed becouse of incorrect pressure ratio
+2022-04-08 20:25:36,055:__main__ : INFO : Noticied request termination of test
+2022-04-08 20:25:36,059:__main__ : INFO : Measurements for SAVEDATA process have ended

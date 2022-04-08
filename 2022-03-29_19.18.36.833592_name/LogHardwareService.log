@@ -1,0 +1,4 @@
+2022-03-29 19:17:36,386:Modules.Adc_ : DEBUG : I2C initialized
+2022-03-29 19:17:37,105:Modules.TestFailures : WARNING : Pressure in chamber is too high!
+2022-03-29 19:17:37,106:Modules.TestFailures : INFO : Pressure in chamber value: -0.7249 bar
+2022-03-29 19:17:37,106:Modules.TestFailures : INFO : Pressure in tank value: -1.3544 bar

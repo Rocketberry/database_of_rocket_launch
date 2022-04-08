@@ -1,0 +1,10 @@
+2022-02-21 17:41:00,137:Modules.Adc_ : DEBUG : I2C initialized
+2022-02-21 17:41:00,157:Modules.Adc_ : DEBUG : I2C initialized
+2022-02-21 17:41:00,372:__main__ : DEBUG : AnalogToDigitalConverter() components initialized
+2022-02-21 17:41:00,374:__main__ : INFO : Cant check pressure ratio
+2022-02-21 17:41:00,402:__main__ : INFO : Start detected
+2022-02-21 17:41:00,874:Modules.TestFailures : WARNING : Pressure in chamber is too high!
+2022-02-21 17:41:00,875:Modules.TestFailures : INFO : Pressure in chamber value: -0.7249 bar
+2022-02-21 17:41:00,875:Modules.TestFailures : INFO : Pressure in tank value: -1.3544 bar
+2022-02-21 17:41:00,875:__main__ : INFO : Servo closed
+2022-02-21 17:42:00,559:__main__ : DEBUG : Sent to save

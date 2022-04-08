@@ -1,0 +1,3 @@
+2022-02-21 18:39:42,758:__main__ : DEBUG : Got raw data
+2022-02-21 18:39:42,827:__main__ : DEBUG : Data scaled,ready to send
+2022-02-21 18:39:42,907:__main__ : DEBUG : Scaled data sent

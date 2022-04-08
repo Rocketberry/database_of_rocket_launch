@@ -1,0 +1,5 @@
+2022-02-21 04:19:18,901:Modules.Adc_ : DEBUG : I2C initialized
+2022-02-21 04:19:19,115:__main__ : DEBUG : AnalogToDigitalConverter() components initialized
+2022-02-21 04:19:19,117:__main__ : INFO : Cant check pressure ratio
+2022-02-21 04:19:19,473:__main__ : INFO : Start detected
+2022-02-21 04:19:39,486:__main__ : DEBUG : Sent to save

@@ -1,0 +1,7 @@
+2022-02-21 17:30:46,721:__main__ : DEBUG : Received data to save
+2022-02-21 17:30:46,890:__main__ : DEBUG : Raw data saved
+2022-02-21 17:30:47,043:__main__ : DEBUG : Received all data to save
+2022-02-21 17:30:47,136:__main__ : DEBUG : Data sent to scale
+2022-02-21 17:30:47,594:__main__ : DEBUG : Scaled data saved
+2022-02-21 17:30:47,595:__main__ : DEBUG : Log file saved
+2022-02-21 17:30:59,267:__main__ : DEBUG : Repository updated

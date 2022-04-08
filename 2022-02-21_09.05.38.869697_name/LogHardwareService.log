@@ -1,0 +1,9 @@
+2022-02-21 09:04:04,906:Modules.Adc_ : DEBUG : I2C initialized
+2022-02-21 09:04:04,943:Modules.Adc_ : DEBUG : I2C initialized
+2022-02-21 09:04:05,159:__main__ : DEBUG : AnalogToDigitalConverter() components initialized
+2022-02-21 09:04:05,160:__main__ : INFO : Cant check pressure ratio
+2022-02-21 09:04:08,668:Modules.TestFailures : WARNING : Pressure is below minimal value!
+2022-02-21 09:04:08,670:Modules.TestFailures : INFO : Pressure value: -0.0121 bar
+2022-02-21 09:04:08,670:__main__ : INFO : Servo closed
+2022-02-21 09:04:38,787:__main__ : INFO : Start detected
+2022-02-21 09:05:38,855:__main__ : DEBUG : Sent to save
