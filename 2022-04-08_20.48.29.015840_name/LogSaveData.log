@@ -1,0 +1,5 @@
+2022-04-08 20:48:29,030:__main__ : DEBUG : Raw data saved
+2022-04-08 20:48:29,069:__main__ : DEBUG : Received all data to save
+2022-04-08 20:48:29,074:__main__ : DEBUG : Data sent to scale
+2022-04-08 20:48:29,155:__main__ : DEBUG : Scaled data saved
+2022-04-08 20:48:29,168:__main__ : DEBUG : Log file saved
