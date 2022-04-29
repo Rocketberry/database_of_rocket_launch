@@ -1,0 +1,36 @@
+2022-04-29 20:43:48,725:Modules.Adc_ : DEBUG : I2C initialized
+2022-04-29 20:43:48,940:__main__ : DEBUG : AnalogToDigitalConverter() components initialized
+2022-04-29 20:43:48,942:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:48,952:Modules.Adc_ : DEBUG : I2C initialized
+2022-04-29 20:43:49,448:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:49,964:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:50,480:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:50,995:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:51,511:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:52,027:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:52,542:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:53,058:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:53,574:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:54,090:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:54,605:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:55,121:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:55,637:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:56,152:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:56,668:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:57,184:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:57,700:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:58,215:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:58,731:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:59,247:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:43:59,762:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:44:00,278:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:44:00,794:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:44:01,310:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:44:01,825:__main__ : INFO : Cant check pressure ratio
+2022-04-29 20:44:02,267:__main__ : INFO : Noticied request start of test
+2022-04-29 20:44:02,336:Modules.TestFailures : WARNING : Pressure in chamber is too high!
+2022-04-29 20:44:02,337:Modules.TestFailures : INFO : Pressure in chamber value: -2.8545000000000003 bar
+2022-04-29 20:44:02,337:Modules.TestFailures : INFO : Pressure in tank value: -8.1284 bar
+2022-04-29 20:44:02,337:__main__ : INFO : Servo closed becouse of incorrect pressure ratio
+2022-04-29 20:44:48,536:__main__ : INFO : Noticied request termination of test
+2022-04-29 20:44:48,540:__main__ : INFO : Measurements for SAVEDATA process have ended

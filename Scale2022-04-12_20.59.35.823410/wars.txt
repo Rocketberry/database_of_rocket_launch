@@ -1,0 +1,1 @@
+Wspolczynnik a= -3.1765477511665115e-05,Wspolczynnik b= - 3.787576307836219
