@@ -1,0 +1,5 @@
+2022-04-29 20:54:17,089:__main__ : INFO : dump_valve is CLOSED
+2022-04-29 20:54:17,090:__main__ : INFO : oxidixer_actuator is CLOSED
+2022-04-29 20:54:17,090:__main__ : INFO : oxidizer_valve is CLOSED
+2022-04-29 20:54:17,090:__main__ : INFO : cooling_valve is CLOSED
+2022-04-29 20:54:17,090:__main__ : INFO : heating is CLOSED
